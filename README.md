@@ -2,7 +2,9 @@
 
 > A Vue.js project
 
-新闻资讯后台管理 vue+element-ui
+新闻资讯后台管理 
+
+vue + element-ui + axios + vueRouter + highcharts
 
 ## Build Setup
 
