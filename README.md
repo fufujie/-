@@ -1,7 +1,8 @@
 # cms
 
 > A Vue.js project
-```新闻资讯后台管理 vue+element-ui
+
+新闻资讯后台管理 vue+element-ui
 
 ## Build Setup
 
